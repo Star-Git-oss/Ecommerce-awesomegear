@@ -4,7 +4,7 @@ import { AiFillGithub } from "react-icons/ai";
 const Footer = () => {
 	return (
 		<div className="footer-container">
-			<p>Site made by Vladimir Infante</p>
+			<p>zhichengshi487@gmail.com</p>
 			<p>Copyright © 2023 Awesome Gear. All rights reserved</p>
 			<p className="icons">
 				<a
